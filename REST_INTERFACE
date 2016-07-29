@@ -1,4 +1,5 @@
 
+#definition
 GET /service/[SERVICE_NAME]/[LAYER_NAME]/?r=[OPERATION]
 
 #example:
