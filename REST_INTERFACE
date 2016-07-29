@@ -1,0 +1,10 @@
+
+GET /service/[SERVICE_NAME]/[LAYER_NAME]/?r=[OPERATION]
+
+#example:
+```
+GET http://hostname/node-ows-rest/wfs/?r=GetCapabilites
+
+GET http://hostname/node-ows-rest/wfs/fenix_gaul0?r=GetFeature
+
+```
